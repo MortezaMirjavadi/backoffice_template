@@ -1,0 +1,14 @@
+[
+  {
+    "name": "inbox",
+    "route": "/inbox",
+    "directory": "/apps/inbox",
+    "indexFile": "index.html"
+  },
+  {
+    "name": "accounting",
+    "route": "/accounting",
+    "directory": "/apps/accounting",
+    "indexFile": "index.html"
+  }
+]
